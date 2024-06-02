@@ -35,3 +35,14 @@ public static final int TIRE = 2;
 ```
 
 -----------------------------------------
+
+Tasklist for Github Certification
+
+- [x] Sign up for GitHub Certification
+- [x] Schedule an exam
+- [x] Read through provided material
+- [x] Try out some excercises
+- [ ] Take a mock Test
+- [ ] Take the actual test
+
+-----------------------------------------
