@@ -13,7 +13,25 @@
 ###### Heading 6
 
 -----------------------------------------
+Adding an image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+-----------------------------------------
+
+Adding Code
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` java
+public static final int TIRE = 2;
+```
 
 -----------------------------------------
